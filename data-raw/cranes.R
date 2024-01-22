@@ -2,3 +2,4 @@
 
 cranes <- read.csv("data-raw/cranes.txt")
 usethis::use_data(cranes, overwrite = TRUE)
+
